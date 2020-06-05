@@ -12,28 +12,28 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* Installations
-* Dataset
-* Project Motivation
-* Data Preparation
-* Data Visualization
-* Results
+* [Installations](#install)
+* [Dataset](#ds)
+* [Project Motivation](#pm)
+* [Data Preparation](#dp)
+* [Data Visualization](#dv)
+* [Results](#res)
 
 <!-- Installations -->
-## Installations
+## Installations <a name="install"></a>
 
 For this project, I used the python 3.8 in Jupiter notebook for analysing data available in Anaconda Navigator. 
 Python libraries required include pandas and numpy.
 
 <!-- Dataset -->
-## Dataset
+## Dataset<a name="ds"></a>
 
 For this data analysis, I used Boston Airbnb data available on [Kaggle](https://www.kaggle.com/). This data was available in form of three CSV files: calendar.csv,
 listings.csv and reviews.csv. This data contained information about listings in Boston, prices, host information, reviews and information
 about location.
 
 <!-- Project Motivation -->
-## Project Motivation
+## Project Motivation<a name="pm"></a>
 
 In this project, I tried to analyze Airbnb data to adress following questions:
 * Which is the most rated and visited places to stay in Boston?
@@ -41,7 +41,7 @@ In this project, I tried to analyze Airbnb data to adress following questions:
 * How Airbnb prices have varied over time in last two year in Boston?
 
 <!-- Data Preparation -->
-## Data Preparation
+## Data Preparation<a name="dp"></a>
 
 The Boston Airbnb dataset contained 3585 observations and 95 features. I only needed calendar.csv and listings.csv dataset for my study.
 For finding most popular places, I compared number or views, so created new dataset with only few columns showing number of views for all places.
@@ -53,11 +53,11 @@ to study price variation over 2 years, months and weekly variations.
 
 
 <!-- Data Visualization -->
-## Data Visualization
+## Data Visualization<a name="dv"></a>
 
 In this study, I used python and Jupiter notebook for ploting most popular places, airbnb price variations in different regons and price variation over time..
 
 <!-- Results -->
-## Results
+## Results<a name="res"></a>
 
 The observations from the study are published in [Medium](https://medium.com/@pranavpuranik10/cheapest-and-popular-places-to-stay-in-boston-during-your-next-visit-a46f140165a).

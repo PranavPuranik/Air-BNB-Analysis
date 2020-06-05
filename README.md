@@ -22,7 +22,8 @@
 <!-- Installations -->
 ## Installations
 
-For this project, I used the python 3.8 in Jupiter notebook for analysing data available in Anaconda Navigator.
+For this project, I used the python 3.8 in Jupiter notebook for analysing data available in Anaconda Navigator. 
+Python libraries required include pandas and numpy.
 
 <!-- Dataset -->
 ## Dataset

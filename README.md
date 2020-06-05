@@ -73,3 +73,8 @@ I want to thank [Udacity](https://www.udacity.com/) for the excellent course mat
 
 The observations from the study are published in [Medium](https://medium.com/@pranavpuranik10/cheapest-and-popular-places-to-stay-in-boston-during-your-next-visit-a46f140165a)
 and analysis is performed in [Airbnb Boston.ipynb](https://github.com/PranavPuranik/Air-BNB-Analysis/blob/master/Airbnb%20Boston.ipynb)
+
+1.Jamaica Plain, Dorchester, and South End are most popular places to rent Airbnb in Boston. <br>
+2. Hyde Park and Roslindale have the lowest Airbnb prices in Boston to stay. <br>
+3. The cheapest way to stay in Boston is to rent a shared room for less than $50 in Hyde Park or Mission Hill; or rent a private room for $63 in Hyde Park. <br>
+4. February and March has lowest average Airbnb prices while September and October have the highest average Airbnb prices in Boston.

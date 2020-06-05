@@ -20,14 +20,15 @@
 <!-- Installations -->
 ## Installations <a name="install"></a>
 
-For this project, I used the python 3.8 in Jupiter notebook for analysing data available in Anaconda Navigator.
+For this project, I used the python 3.8 in Jupyter notebook for analysing data available in Anaconda Navigator.
 Python libraries required include pandas and numpy.
 
 <!-- Dataset -->
 ## Dataset<a name="ds"></a>
 
-For this data analysis, I used Boston Airbnb data available on [Kaggle](https://www.kaggle.com/). This data contained a large amount of information about listings, their prices, calenar and reviews from previous visitors.
-
+For this data analysis, I used Boston Airbnb data available on [Kaggle](https://www.kaggle.com/). This data was available in form of three CSV files: calendar.csv,
+listings.csv and reviews.csv. This data contained information about listings in Boston, prices, host information, reviews and information
+about location.
 
 <!-- Project Motivation -->
 ## Project Motivation<a name="pm"></a>
